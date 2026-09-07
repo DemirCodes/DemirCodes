@@ -1,7 +1,6 @@
 <h1 align="center">Hi , Its Dmrcode</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demircodes" alt="demircodes" /></a> </p>
 
 - 🔭 I’m currently working on [AEGIS Framework](https://github.com/DemirCodes/aegis)
 
