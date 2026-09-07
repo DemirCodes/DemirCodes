@@ -1,5 +1,5 @@
 <h1 align="center">Hi , Its Dmrcode</h1>
-<h3 align="center">A passionate full stack developer from Türkiye</h3>
+<h3 align="center">A passionate full stack engineer from Türkiye</h3>
 
 
 - 🔭 I’m currently working on [AEGIS Framework](https://github.com/DemirCodes/aegis)
